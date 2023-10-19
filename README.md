@@ -1,2 +1,7 @@
 # Mini-Project
 ROUND KEY-BASED HYBRID CRYPTOGRAPHY SYSTEM
+ABSTRACT
+
+ Hybrid cryptographic encryption techniques combine multiple encryption algorithms to enhance the security of sensitive data. The work presents a hybrid encryption scheme based on the Vigenère and Polybius ciphers. Although these classical ciphers provide basic encryption capabilities, they are vulnerable to few attacks like kasiski attack, frequency analysis attacks and index of coincidence. To overcome this vulnerability, the round key is introduced as an additional layer of security. The round key is generated using a secure random number generator and serves as a dynamic component in the encryption process. By incorporating the round key, the encryption algorithm becomes more resistant to frequency analysis attacks, kasiski attack and index of coincidence as letter frequencies are masked and vary across different rounds. The effectiveness of the proposed hybrid encryption scheme and demonstrated its resilience against known attacks. The results indicate that the round key significantly enhances the security of the encryption process and reduces the susceptibility to known attacks. The project contributes to the advancement of hybrid encryption techniques and provides a practical solution for securing sensitive data in communication channels and storage systems.
+
+Keywords: Vigenère, Polybius, Kasiski attack, Frequency analysis attack, index of coincidence. 
